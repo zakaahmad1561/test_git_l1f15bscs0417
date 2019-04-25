@@ -1,1 +1,3 @@
 "Name:Zaka Ahmad"
+email:zaka.ahmad@ucp.edu.pk
+faculty of information technology
